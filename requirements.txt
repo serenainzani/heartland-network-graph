@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+networkx
+pyvis
+ipywidgets
+pandas
+tqdm
+notebook
+jupyter
