@@ -16,9 +16,10 @@ Run all the cells, and the graph will load on http://localhost:3000/data/heartla
 
 **Nodes**: Represent characters. Sized and colour determined by episode count.
 
-**Edges**: Represent characters who appeared in the same episode. Thickness equates to shared episode count.
+**Edges**: Represent characters who appeared in the same episode. Thickness equates to shared episode count. When filtering per season, the edges of regular characters can be hidden with a toggle on the html page.
 
-**Filter**: by season using the dropdown on the html page. Default is entire series.
+**Filters**: By season using the dropdown on the html page.
+
 
 ![graph screenshot for season 1](img/ui.png)
 
